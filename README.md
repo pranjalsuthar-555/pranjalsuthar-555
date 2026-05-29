@@ -12,19 +12,17 @@
 
 <br/>
 
-brand strategy. creative direction. systems that hold. three production apps built from scratch with no engineering degree.
+brand strategy. creative direction. no engineering degree. three apps live on the internet.
 
-I got here by refusing to wait until I was qualified.
+I didn't wait to be qualified. I just started.
 
-My work lives at the intersection of culture, human behaviour, and how things look and feel and land. I care about what makes a brand feel inevitable rather than assembled. What makes an audience stay rather than just arrive. What makes a piece of work ask something of the person receiving it rather than just informing them.
+I work on brands — what they say, how they're built, what holds them together when the aesthetic wears off. Right now that looks like running operations for two Substack publications ([Home Abroad](https://homeabroadhq.substack.com) · [Creators Abroad](https://creatorsabroad.substack.com)) — the subscriber systems, the editorial architecture, the digital products, the strategy behind what gets published and why. It's unglamorous infrastructure work that makes the glamorous stuff possible. I like that.
 
-Right now I run operations for two Substack publications — [Home Abroad](https://homeabroadhq.substack.com) and [Creators Abroad](https://creatorsabroad.substack.com) — building subscriber infrastructure, content architecture, and digital products for people constructing lives across borders. The work spans editorial systems, audience growth strategy, email marketing, product design, and community. Not one of those things in isolation. All of them, because that's how brands actually work.
+I also build things on the side when an idea won't leave me alone. A 3D globe for finding where you belong. A Windows 98 file explorer for sitting with AI displacement. A free design resource directory with a Hello Kitty arcade game inside it. None of these were assigned. All of them are live.
 
-I also build things when the idea needs to exist before anyone gives me permission. A 3D globe for finding where you belong. A Windows 98 interface for sitting with AI displacement. A free resource directory with a Hello Kitty arcade game. None of these were assigned. All of them are live.
+The bigger project is **Angels in the Grey Zone** — an aesthetic universe I'm constructing from scratch. Original typeface. Written mythology. Pan-Asian visual references handled with actual research. The premise is that moral complexity is the most honest design material available, and most brands are too afraid to touch it.
 
-Separately, I'm building **Angels in the Grey Zone** — a personal aesthetic universe, a constructed typeface, a body of written work — on the premise that moral complexity is the most honest design material available. The grey zone isn't a problem to solve. It's where everything worth making lives.
-
-I'm interested in brand strategy, creative direction, luxury and lifestyle, cultural intelligence, and cross-cultural work — especially anything that sits between Asia and the rest of the world. If you're building something that needs someone who thinks in systems and feels in culture, that's where I work best.
+I want to work on things that have a real point of view. Luxury. Lifestyle. Cross-cultural creative work — especially anything moving between India, Japan, and East Asia. If you're building something that needs someone who can hold the strategy and the taste at the same time, let's talk.
 
 open to collabs, projects, and conversations worth having.
 
