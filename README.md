@@ -1,28 +1,59 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0B12&height=140&section=header&text=pranjal%20suthar&fontSize=34&fontColor=C8BFB0&fontAlignY=62&desc=applied%20psychology%20%C3%97%20brand%20strategy%20%C3%97%20grey%20zone&descSize=13&descAlignY=80&descFontColor=8B7BA8" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/header_halftone.svg" width="100%" alt=""/>
 </div>
+
+<br/>
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranjalsuthar-555&color=4A2E6B&style=flat-square&label=profile+views)
+![Profile Views](https://komarev.com/ghpvc/?username=pranjalsuthar-555&color=6B4E8A&style=flat-square&label=)
 
 </div>
 
+<br/>
+
+psychology degree. no engineering background. built three production apps because the ideas couldn't wait for permission.
+
+I study why people want what they want — and then I build for it. The training is applied psychology. The practice is brand operations, systems architecture, and occasionally React when an idea needs to exist in the world before I have the credentials to justify building it.
+
+Right now: operations and content work for two Substack publications — [Home Abroad](https://homeabroadhq.substack.com) and [Creators Abroad](https://creatorsabroad.substack.com) — building the infrastructure behind audience growth, editorial systems, and digital products for people constructing lives across borders.
+
+Separately: a personal aesthetic universe called **Angels in the Grey Zone.** Moral complexity as design material. The grey zone as the only honest address for any human being. Wings that broke and grew back stronger for having the memory of the cut. The moodboard exists. The thesis exists. The rest is being built with patience — which is the only speed at which something real gets made.
+
+<br/>
+
 ---
 
-psychology degree. no engineering background. built three production apps because the ideas couldn't wait.
+<br/>
 
-I study why people want what they want — and I design for it. By training I'm an applied psychology researcher. In practice I'm a brand operations person, a systems builder, and occasionally a React developer who uses vibe-coding the way a writer uses a spell-checker: to get the structure right so the idea can exist.
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="4">
+<tr>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/drainflowers" width="100%" style="filter: grayscale(20%);" alt="beauty where systems leak"/>
+</td>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/angel" width="100%" alt="witnesses of the grey"/>
+</td>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/circle%20scripture" width="100%" alt="blueprint precision"/>
+</td>
+<td width="25%" align="center">
+<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/goddess" width="100%" alt="the feminine archive"/>
+</td>
+</tr>
+</table>
+</div>
 
-Right now I work on two Substack publications ([Home Abroad](https://homeabroadhq.substack.com) · [Creators Abroad](https://creatorsabroad.substack.com)) — subscriber infrastructure, editorial systems, digital products for people building lives across borders.
-
-Separately, I'm building a personal aesthetic universe called **Angels in the Grey Zone** — a constructed visual world, a written mythology, and eventually a typeface. Moral complexity as design material. Broken wings as the subject. Grey as the only honest colour.
+<br/>
 
 ---
+
+<br/>
 
 ## what I've shipped
+
+<br/>
 
 <table>
 <tr>
@@ -30,7 +61,7 @@ Separately, I'm building a personal aesthetic universe called **Angels in the Gr
 
 **[Will AI Take My Job?](https://will-ai-take-my-job-project.vercel.app)**
 
-Windows 98 file explorer. 1,011 occupations. 32 career clusters. AI displacement risk, made navigable — not panic-inducing, not sanitised. The retro interface creates a tension: exploring the future of work through 1998-era computing. That's the whole argument.
+1,011 occupations. 32 career clusters. The AI displacement question, made navigable instead of terrifying. The Windows 98 interface wasn't a gimmick — exploring the future of work through 1998-era computing asks something of you before you've finished loading the page.
 
 `React` `Vite` `Tailwind` `Fuse.js` `Python`
 
@@ -39,7 +70,7 @@ Windows 98 file explorer. 1,011 occupations. 32 career clusters. AI displacement
 
 **[Home Abroad Locales](https://home-abroad-locales.vercel.app)**
 
-Personality quiz + 3D globe for people seriously considering life abroad. 561 destinations. 8 filters. Built to feel like a letter, not a SaaS product. The quiz creates genuine tension because every answer should feel right — that's by design.
+Personality quiz + 3D globe for people seriously considering life abroad. 561 destinations. 8 filters. The quiz was designed so every answer feels right — because the tension between options is the only honest way to learn what you actually want.
 
 `React 19` `Three.js` `PapaParse` `Vercel Functions`
 
@@ -50,16 +81,16 @@ Personality quiz + 3D globe for people seriously considering life abroad. 561 de
 
 **[Free Kit](https://free-kit-project.vercel.app)**
 
-70+ genuinely free design resources in one searchable directory. Community-sourced, weekly updates, Hello Kitty energy, and a mini arcade game. Built because the version that should already exist didn't.
+70+ genuinely free design resources in one searchable place. Community-sourced, weekly updates, Hello Kitty energy. Built because the version that should already exist didn't — and because caring about what you make includes caring about what tools are available to others.
 
 `React` `Vite` `Vanilla CSS` `localStorage`
 
 </td>
 <td width="50%" valign="top">
 
-**Angels in the Grey Zone** *(in progress)*
+**Angels in the Grey Zone** *(building)*
 
-A personal aesthetic universe. Constructed script system. Wing repair mythology. Pan-Asian spiritual sampling without appropriation. The moodboard exists. The thesis document exists. The rest is being built.
+A constructed aesthetic universe. A typeface drawn from Sanskrit phonemes. Wing repair mythology. Pan-Asian divine archetypes studied without flattening them. The most subversive thing a person can do in an attention economy that profits from reactivity is create something for the joy of it, on purpose.
 
 `Figma` `Cormorant Garamond` `Space Mono` `patience`
 
@@ -67,32 +98,52 @@ A personal aesthetic universe. Constructed script system. Wing repair mythology.
 </tr>
 </table>
 
----
-
-## the stack I actually use
-
-**for thinking —** `Notion` `Obsidian` `Miro`  
-**for building —** `React` `Vite` `Vercel` `Figma` `Canva`  
-**for operations —** `Airtable` `Kit (ConvertKit)` `Zapier` `Gumroad`  
-**for research —** `Jamovi` `Claude` `Perplexity`
+<br/>
 
 ---
+
+<br/>
+
+## tools
+
+<br/>
+
+**thinking —** `Notion` `Obsidian` `Miro`
+&nbsp;&nbsp;**building —** `React` `Vite` `Vercel` `Figma` `Canva`
+&nbsp;&nbsp;**operations —** `Airtable` `Kit` `Zapier` `Gumroad`
+&nbsp;&nbsp;**research —** `Jamovi` `Claude` `Perplexity`
+
+<br/>
+
+---
+
+<br/>
 
 ## elsewhere
 
 [writing → Substack](https://ayumyueowlovesstrawberry.substack.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sutharpranjal) &nbsp;·&nbsp; [email](mailto:pranjalsuthar.work@gmail.com)
 
+<br/>
+
 ---
+
+<br/>
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalsuthar-555&show_icons=true&hide_border=true&bg_color=0D0B12&title_color=8B7BA8&icon_color=C4A35A&text_color=C8BFB0&ring_color=4A2E6B)](https://github.com/pranjalsuthar-555)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsuthar-555&layout=compact&hide_border=true&bg_color=0D0B12&title_color=8B7BA8&text_color=C8BFB0)](https://github.com/pranjalsuthar-555)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalsuthar-555&show_icons=true&hide_border=true&bg_color=EDE8E0&title_color=3D2560&icon_color=C4A35A&text_color=4A3060&ring_color=6B4E8A)](https://github.com/pranjalsuthar-555)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsuthar-555&layout=compact&hide_border=true&bg_color=EDE8E0&title_color=3D2560&text_color=4A3060)](https://github.com/pranjalsuthar-555)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranjalsuthar-555&hide_border=true&background=0D0B12&stroke=2D1B4E&ring=4A2E6B&fire=C4A35A&currStreakLabel=8B7BA8&sideLabels=8B7BA8&dates=A89F94&currStreakNum=C8BFB0&sideNums=C8BFB0)](https://github.com/pranjalsuthar-555)
+<br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalsuthar-555&bg_color=0D0B12&color=8B7BA8&line=4A2E6B&point=C4A35A&area=true&area_color=2D1B4E&hide_border=true)](https://github.com/pranjalsuthar-555)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pranjalsuthar-555&hide_border=true&background=EDE8E0&stroke=D4CCE4&ring=6B4E8A&fire=C4A35A&currStreakLabel=3D2560&sideLabels=6B4E8A&dates=9B84B0&currStreakNum=3D2560&sideNums=4A3060)](https://github.com/pranjalsuthar-555)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalsuthar-555&bg_color=EDE8E0&color=6B4E8A&line=9B84B0&point=C4A35A&area=true&area_color=D4CCE4&hide_border=true)](https://github.com/pranjalsuthar-555)
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -100,6 +151,8 @@ A personal aesthetic universe. Constructed script system. Wing repair mythology.
 
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D0B12&height=80&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/footer_halftone.svg" width="100%" alt=""/>
 </div>
