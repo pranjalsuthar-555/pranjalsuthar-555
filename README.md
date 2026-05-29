@@ -12,13 +12,21 @@
 
 <br/>
 
-psychology degree. no engineering background. built three production apps because the ideas couldn't wait for permission.
+brand strategy. creative direction. systems that hold. three production apps built from scratch with no engineering degree.
 
-I study why people want what they want — and then I build for it. The training is applied psychology. The practice is brand operations, systems architecture, and building things that need to exist.
+I got here by refusing to wait until I was qualified.
 
-Right now: operations and content work for two Substack publications — [Home Abroad](https://homeabroadhq.substack.com) — building the infrastructure behind audience growth, editorial systems, and digital products for people constructing lives across borders.
+My work lives at the intersection of culture, human behaviour, and how things look and feel and land. I care about what makes a brand feel inevitable rather than assembled. What makes an audience stay rather than just arrive. What makes a piece of work ask something of the person receiving it rather than just informing them.
 
-Separately: a personal aesthetic universe called **Angels in the Grey Zone.** Moral complexity as design material. The grey zone as the only address for any human being. Wings that broke and grew back stronger for having the memory of the cut. Being built slowly.
+Right now I run operations for two Substack publications — [Home Abroad](https://homeabroadhq.substack.com) and [Creators Abroad](https://creatorsabroad.substack.com) — building subscriber infrastructure, content architecture, and digital products for people constructing lives across borders. The work spans editorial systems, audience growth strategy, email marketing, product design, and community. Not one of those things in isolation. All of them, because that's how brands actually work.
+
+I also build things when the idea needs to exist before anyone gives me permission. A 3D globe for finding where you belong. A Windows 98 interface for sitting with AI displacement. A free resource directory with a Hello Kitty arcade game. None of these were assigned. All of them are live.
+
+Separately, I'm building **Angels in the Grey Zone** — a personal aesthetic universe, a constructed typeface, a body of written work — on the premise that moral complexity is the most honest design material available. The grey zone isn't a problem to solve. It's where everything worth making lives.
+
+I'm interested in brand strategy, creative direction, luxury and lifestyle, cultural intelligence, and cross-cultural work — especially anything that sits between Asia and the rest of the world. If you're building something that needs someone who thinks in systems and feels in culture, that's where I work best.
+
+open to collabs, projects, and conversations worth having.
 
 <br/>
 
@@ -81,7 +89,7 @@ Personality quiz + 3D globe for people seriously considering life abroad. 561 de
 
 **[Free Kit](https://free-kit-project.vercel.app)**
 
-70+ genuinely free design resources in one searchable place. Community-sourced, weekly updates, Hello Kitty energy. Built because the version that should already exist didn't. 
+70+ genuinely free design resources in one searchable place. Community-sourced, weekly updates, Hello Kitty energy. Built because the version that should already exist didn't.
 
 `React` `Vite` `Vanilla CSS` `localStorage`
 
@@ -121,7 +129,7 @@ A constructed aesthetic universe. A typeface drawn from Sanskrit phonemes. Wing 
 
 ## elsewhere
 
-[writing → Substack](https://substack.com/@readfishbrain) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sutharpranjal) &nbsp;·&nbsp; [email](mailto:pranjalsuthar.work@gmail.com)
+[writing → Substack](https://ayumyueowlovesstrawberry.substack.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sutharpranjal) &nbsp;·&nbsp; [email](mailto:pranjalsuthar.work@gmail.com)
 
 <br/>
 
