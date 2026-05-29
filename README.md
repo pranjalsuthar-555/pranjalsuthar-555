@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/header_halftone.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/pixel_name.svg" width="80%" alt="pranjal suthar"/>
 </div>
 
 <br/>
@@ -30,7 +30,7 @@ Separately: a personal aesthetic universe called **Angels in the Grey Zone.** Mo
 <table border="0" cellspacing="0" cellpadding="4">
 <tr>
 <td width="25%" align="center">
-<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/drainflowers" width="100%" style="filter: grayscale(20%);" alt="beauty where systems leak"/>
+<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/drainflowers" width="100%" alt="beauty where systems leak"/>
 </td>
 <td width="25%" align="center">
 <img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/angel" width="100%" alt="witnesses of the grey"/>
@@ -131,15 +131,15 @@ A constructed aesthetic universe. A typeface drawn from Sanskrit phonemes. Wing 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalsuthar-555&show_icons=true&hide_border=true&bg_color=EDE8E0&title_color=3D2560&icon_color=C4A35A&text_color=4A3060&ring_color=6B4E8A)](https://github.com/pranjalsuthar-555)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsuthar-555&layout=compact&hide_border=true&bg_color=EDE8E0&title_color=3D2560&text_color=4A3060)](https://github.com/pranjalsuthar-555)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalsuthar-555&show_icons=true&hide_border=true&bg_color=00000000&title_color=3D2560&icon_color=C4A35A&text_color=4A3060&ring_color=6B4E8A)](https://github.com/pranjalsuthar-555)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsuthar-555&layout=compact&hide_border=true&bg_color=00000000&title_color=3D2560&text_color=4A3060)](https://github.com/pranjalsuthar-555)
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranjalsuthar-555&hide_border=true&background=EDE8E0&stroke=D4CCE4&ring=6B4E8A&fire=C4A35A&currStreakLabel=3D2560&sideLabels=6B4E8A&dates=9B84B0&currStreakNum=3D2560&sideNums=4A3060)](https://github.com/pranjalsuthar-555)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pranjalsuthar-555&hide_border=true&background=00000000&stroke=D4CCE4&ring=6B4E8A&fire=C4A35A&currStreakLabel=3D2560&sideLabels=6B4E8A&dates=9B84B0&currStreakNum=3D2560&sideNums=4A3060)](https://github.com/pranjalsuthar-555)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalsuthar-555&bg_color=EDE8E0&color=6B4E8A&line=9B84B0&point=C4A35A&area=true&area_color=D4CCE4&hide_border=true)](https://github.com/pranjalsuthar-555)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalsuthar-555&bg_color=00000000&color=6B4E8A&line=9B84B0&point=C4A35A&area=true&area_color=D4CCE4&hide_border=true)](https://github.com/pranjalsuthar-555)
 
 </div>
 
@@ -149,10 +149,4 @@ A constructed aesthetic universe. A typeface drawn from Sanskrit phonemes. Wing 
 
 *"Angels are not messengers of God. They are witnesses of the grey."*
 
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/footer_halftone.svg" width="100%" alt=""/>
 </div>
