@@ -18,7 +18,7 @@ I study why people want what they want — and then I build for it. The training
 
 Right now: operations and content work for two Substack publications — [Home Abroad](https://homeabroadhq.substack.com) — building the infrastructure behind audience growth, editorial systems, and digital products for people constructing lives across borders.
 
-Separately: a personal aesthetic universe called **Angels in the Grey Zone.** Moral complexity as design material. The grey zone as the only honest address for any human being. Wings that broke and grew back stronger for having the memory of the cut. The moodboard exists. The thesis exists. The rest is being built with patience — which is the only speed at which something real gets made.
+Separately: a personal aesthetic universe called **Angels in the Grey Zone.** Moral complexity as design material. The grey zone as the only honest address for any human being. Wings that broke and grew back stronger for having the memory of the cut. The moodboard exists. The thesis exists. The rest is being built with patience, stay tuned ;)
 
 <br/>
 
