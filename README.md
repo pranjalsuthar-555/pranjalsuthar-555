@@ -14,11 +14,11 @@
 
 psychology degree. no engineering background. built three production apps because the ideas couldn't wait for permission.
 
-I study why people want what they want — and then I build for it. The training is applied psychology. The practice is brand operations, systems architecture, and occasionally React when an idea needs to exist in the world before I have the credentials to justify building it.
+I study why people want what they want — and then I build for it. The training is applied psychology. The practice is brand operations, systems architecture, and building things that need to exist.
 
 Right now: operations and content work for two Substack publications — [Home Abroad](https://homeabroadhq.substack.com) — building the infrastructure behind audience growth, editorial systems, and digital products for people constructing lives across borders.
 
-Separately: a personal aesthetic universe called **Angels in the Grey Zone.** Moral complexity as design material. The grey zone as the only honest address for any human being. Wings that broke and grew back stronger for having the memory of the cut. The moodboard exists. The thesis exists. The rest is being built with patience, stay tuned ;)
+Separately: a personal aesthetic universe called **Angels in the Grey Zone.** Moral complexity as design material. The grey zone as the only address for any human being. Wings that broke and grew back stronger for having the memory of the cut. Being built slowly.
 
 <br/>
 
@@ -81,7 +81,7 @@ Personality quiz + 3D globe for people seriously considering life abroad. 561 de
 
 **[Free Kit](https://free-kit-project.vercel.app)**
 
-70+ genuinely free design resources in one searchable place. Community-sourced, weekly updates, Hello Kitty energy. Built because the version that should already exist didn't — and because caring about what you make includes caring about what tools are available to others.
+70+ genuinely free design resources in one searchable place. Community-sourced, weekly updates, Hello Kitty energy. Built because the version that should already exist didn't. 
 
 `React` `Vite` `Vanilla CSS` `localStorage`
 
