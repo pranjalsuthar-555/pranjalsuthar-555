@@ -121,7 +121,7 @@ A constructed aesthetic universe. A typeface drawn from Sanskrit phonemes. Wing 
 
 ## elsewhere
 
-[writing → Substack](https://ayumyueowlovesstrawberry.substack.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sutharpranjal) &nbsp;·&nbsp; [email](mailto:pranjalsuthar.work@gmail.com)
+[writing → Substack](https://substack.com/@readfishbrain) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sutharpranjal) &nbsp;·&nbsp; [email](mailto:pranjalsuthar.work@gmail.com)
 
 <br/>
 
