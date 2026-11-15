@@ -73,7 +73,9 @@ open to remote projects, collabs, and conversations worth having.
 <tr>
 <td width="50%" valign="top">
 
-**[Will AI Take My Job?](https://will-ai-take-my-job-project.vercel.app)**
+**Will AI Take My Job?**
+
+[![visit the site →](https://img.shields.io/badge/-visit%20the%20site%20%E2%86%92-f0529c?style=flat-square)](https://will-ai-take-my-job-project.vercel.app)
 
 1,011 occupations. 32 career clusters. The AI displacement question, made navigable instead of terrifying. The Windows 98 interface wasn't a gimmick: exploring the future of work through 1998-era computing asks something of you before you've finished loading the page.
 
@@ -82,7 +84,9 @@ open to remote projects, collabs, and conversations worth having.
 </td>
 <td width="50%" valign="top">
 
-**[Living Abroad Locales](https://explorelocales.homeabroadhq.com)**
+**Living Abroad Locales**
+
+[![visit the site →](https://img.shields.io/badge/-visit%20the%20site%20%E2%86%92-f0529c?style=flat-square)](https://explorelocales.homeabroadhq.com)
 
 A ten-question quiz and a 3D globe for people seriously considering life abroad. 564 destinations. The quiz was designed so every answer feels right, because the tension between options is the only honest way to learn what you actually want.
 
@@ -93,7 +97,9 @@ A ten-question quiz and a 3D globe for people seriously considering life abroad.
 <tr>
 <td width="50%" valign="top">
 
-**[The Housewarming Wall](https://homeabroadanniversarywall.vercel.app/)**
+**The Housewarming Wall**
+
+[![visit the site →](https://img.shields.io/badge/-visit%20the%20site%20%E2%86%92-f0529c?style=flat-square)](https://homeabroadanniversarywall.vercel.app/)
 
 A first-birthday campaign built as a housewarming, not a giveaway. Readers pinned one sentence, a place and an optional photo to the wall, and every entry doubled as a sign-up with an instant "welcome to the house" reply. 62 entries and 3,068 views on launch day. I led the campaign end to end and coded the wall from scratch.
 
@@ -102,7 +108,9 @@ A first-birthday campaign built as a housewarming, not a giveaway. Readers pinne
 </td>
 <td width="50%" valign="top">
 
-**[Atelier](https://atelier.homeabroadhq.com)**
+**Atelier**
+
+[![visit the site →](https://img.shields.io/badge/-visit%20the%20site%20%E2%86%92-f0529c?style=flat-square)](https://atelier.homeabroadhq.com)
 
 A hand-painted, scroll-driven site for a Substack positioning studio: scrolling down is climbing up a painted cliffside maison. It came with a free AI tool, the Authority Scorecard, which reads a real Substack and scores it out of 100 across seven dimensions. I designed and built both.
 
@@ -113,7 +121,9 @@ A hand-painted, scroll-driven site for a Substack positioning studio: scrolling 
 <tr>
 <td width="50%" valign="top">
 
-**[pranjalsuthar.com](https://pranjalsuthar.com)**
+**pranjalsuthar.com**
+
+[![visit the site →](https://img.shields.io/badge/-visit%20the%20site%20%E2%86%92-f0529c?style=flat-square)](https://pranjalsuthar.com)
 
 My portfolio, told as a fairytale that is also my résumé: an angel falls to earth, and every department of my work is a wing. Seven departments, a vending machine for the about page, and a search that sounds like a doll's dream house.
 
@@ -166,7 +176,13 @@ A constructed creative universe. A typeface drawn from Sanskrit phonemes. Wing r
 
 ## elsewhere
 
-[portfolio](https://pranjalsuthar.com) &nbsp;|&nbsp; [all my links](https://links.pranjalsuthar.com) &nbsp;|&nbsp; [writing on Substack](https://substack.com/@pranjalsuthar) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sutharpranjal) &nbsp;|&nbsp; [email](mailto:work@pranjalsuthar.com)
+<br/>
+
+<div align="center">
+
+[![portfolio](https://img.shields.io/badge/-portfolio-f0529c?style=for-the-badge)](https://pranjalsuthar.com)  [![all my links](https://img.shields.io/badge/-all%20my%20links-f0529c?style=for-the-badge)](https://links.pranjalsuthar.com)  [![writing](https://img.shields.io/badge/-writing-f0529c?style=for-the-badge)](https://ayumyueowlovesstrawberry.substack.com)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-f0529c?style=for-the-badge)](https://www.linkedin.com/in/sutharpranjal)  [![email](https://img.shields.io/badge/-email-f0529c?style=for-the-badge)](mailto:work@pranjalsuthar.com)
+
+</div>
 
 <br/>
 
