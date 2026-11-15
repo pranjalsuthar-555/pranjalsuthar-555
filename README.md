@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/pixel_name.svg" width="80%" alt="pranjal suthar"/>
+<img src="https://raw.githubusercontent.com/pranjalsuthar-555/pranjalsuthar-555/main/pixel_name.svg?v=2" width="80%" alt="pranjal suthar"/>
 </div>
 
 <br/>
