@@ -6,25 +6,33 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranjalsuthar-555&color=6B4E8A&style=flat-square&label=)
+![Profile Views](https://komarev.com/ghpvc/?username=pranjalsuthar-555&color=d9a3b5&style=flat-square&label=)
 
 </div>
 
 <br/>
 
-brand strategy. creative direction. no engineering degree. three apps live on the internet.
+<div align="center">
+
+**i'm the angel who builds creative ecosystems.**
+
+</div>
+
+<br/>
+
+creative direction. brand worlds. no engineering degree. four things live on the internet.
 
 I didn't wait to be qualified. I just started.
 
-I work on brands — what they say, how they're built, what holds them together when the aesthetic wears off. Right now that looks like running operations for two Substack publications ([Home Abroad](https://homeabroadhq.substack.com) · [Creators Abroad](https://creatorsabroad.substack.com)) — the subscriber systems, the editorial architecture, the digital products, the strategy behind what gets published and why. It's unglamorous infrastructure work that makes the glamorous stuff possible. I like that.
+I build the whole world around a brand: what it says, how it's made, and the systems that hold it together when the aesthetic wears off. I studied psychology for five years, then wrote, designed, coded and strategised for founders and brands around the world. Until October 2026 I ran the systems behind Home Abroad, a Substack publication that grew from 1,000 to 2,100+ readers while I was there, and I co-founded Atelier, a Substack positioning studio. Now I'm independent, working my way toward creative director.
 
-I also build things on the side when an idea won't leave me alone. A 3D globe for finding where you belong. A Windows 98 file explorer for sitting with AI displacement. A free design resource directory with a Hello Kitty arcade game inside it. None of these were assigned. All of them are live.
+I also build things when an idea won't leave me alone. A 3D globe for finding where you belong. A Windows 98 file explorer for sitting with AI displacement. A free design resource directory with a Hello Kitty arcade game inside it. A portfolio told as a fairytale. None of these were assigned. All of them are live.
 
-The bigger project is **Angels in the Grey Zone** — an aesthetic universe I'm constructing from scratch. Original typeface. Written mythology. Pan-Asian visual references handled with actual research. The premise is that moral complexity is the most honest design material available, and most brands are too afraid to touch it.
+The bigger project is **Angels in the Grey Zone**, a creative universe I'm building from scratch: an original typeface, written mythology, and pan-Asian visual references handled with actual research. The premise is that moral complexity is the most honest design material available, and most brands are too afraid to touch it.
 
-I want to work on things that have a real point of view. Luxury. Lifestyle. Cross-cultural creative work — especially anything moving between India, Japan, and East Asia. If you're building something that needs someone who can hold the strategy and the taste at the same time, let's talk.
+I want to work with brands that do some real good, and with anything moving between India and Japan. If you're building something that needs someone who can hold the strategy and the taste at the same time, let's talk.
 
-open to collabs, projects, and conversations worth having.
+open to remote projects, collabs, and conversations worth having.
 
 <br/>
 
@@ -67,16 +75,16 @@ open to collabs, projects, and conversations worth having.
 
 **[Will AI Take My Job?](https://will-ai-take-my-job-project.vercel.app)**
 
-1,011 occupations. 32 career clusters. The AI displacement question, made navigable instead of terrifying. The Windows 98 interface wasn't a gimmick — exploring the future of work through 1998-era computing asks something of you before you've finished loading the page.
+1,011 occupations. 32 career clusters. The AI displacement question, made navigable instead of terrifying. The Windows 98 interface wasn't a gimmick: exploring the future of work through 1998-era computing asks something of you before you've finished loading the page.
 
 `React` `Vite` `Tailwind` `Fuse.js` `Python`
 
 </td>
 <td width="50%" valign="top">
 
-**[Home Abroad Locales](https://home-abroad-locales.vercel.app)**
+**[Living Abroad Locales](https://explorelocales.homeabroadhq.com)**
 
-Personality quiz + 3D globe for people seriously considering life abroad. 561 destinations. 8 filters. The quiz was designed so every answer feels right — because the tension between options is the only honest way to learn what you actually want.
+A ten-question quiz and a 3D globe for people seriously considering life abroad. 564 destinations. The quiz was designed so every answer feels right, because the tension between options is the only honest way to learn what you actually want.
 
 `React 19` `Three.js` `PapaParse` `Vercel Functions`
 
@@ -94,11 +102,31 @@ Personality quiz + 3D globe for people seriously considering life abroad. 561 de
 </td>
 <td width="50%" valign="top">
 
+**[pranjalsuthar.com](https://pranjalsuthar.com)**
+
+My portfolio, told as a fairytale that is also my résumé: an angel falls to earth, and every department of my work is a wing. Seven departments, a vending machine for the about page, and a search that sounds like a doll's dream house.
+
+`Astro` `Lenis` `Pagefind` `Cloudflare Pages`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **Angels in the Grey Zone** *(building)*
 
-A constructed aesthetic universe. A typeface drawn from Sanskrit phonemes. Wing repair mythology. Pan-Asian divine archetypes studied without flattening them. The most subversive thing a person can do in an attention economy that profits from reactivity is create something for the joy of it, on purpose.
+A constructed creative universe. A typeface drawn from Sanskrit phonemes. Wing repair mythology. Pan-Asian divine archetypes studied without flattening them. The most subversive thing a person can do in an attention economy that profits from reactivity is create something for the joy of it, on purpose.
 
 `Figma` `Cormorant Garamond` `Space Mono` `patience`
+
+</td>
+<td width="50%" valign="top">
+
+**Kyun** *(restarting)*
+
+A behaviour-science brand startup I run with my co-founder: why people want what they want, turned into strategy that brands can actually use.
+
+`Notion` `Airtable` `Figma` `curiosity`
 
 </td>
 </tr>
@@ -114,10 +142,10 @@ A constructed aesthetic universe. A typeface drawn from Sanskrit phonemes. Wing 
 
 <br/>
 
-**thinking —** `Notion` `Obsidian` `Miro`
-&nbsp;&nbsp;**building —** `React` `Vite` `Vercel` `Figma` `Canva`
-&nbsp;&nbsp;**operations —** `Airtable` `Kit` `Zapier` `Gumroad`
-&nbsp;&nbsp;**research —** `Jamovi` `Claude` `Perplexity`
+**thinking:** `Notion` `Obsidian` `Miro`
+&nbsp;&nbsp;**building:** `React` `Vite` `Astro` `Vercel` `Cloudflare` `Figma` `Canva`
+&nbsp;&nbsp;**operations:** `Airtable` `Kit` `Zapier` `Gumroad` `Substack`
+&nbsp;&nbsp;**research:** `Jamovi` `Claude` `Perplexity`
 
 <br/>
 
@@ -127,27 +155,11 @@ A constructed aesthetic universe. A typeface drawn from Sanskrit phonemes. Wing 
 
 ## elsewhere
 
-[writing → Substack](https://ayumyueowlovesstrawberry.substack.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/sutharpranjal) &nbsp;·&nbsp; [email](mailto:pranjalsuthar.work@gmail.com)
+[portfolio](https://pranjalsuthar.com) &nbsp;|&nbsp; [all my links](https://links.pranjalsuthar.com) &nbsp;|&nbsp; [writing on Substack](https://ayumyueowlovesstrawberry.substack.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sutharpranjal) &nbsp;|&nbsp; [email](mailto:work@pranjalsuthar.com)
 
 <br/>
 
 ---
-
-<br/>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranjalsuthar-555&show_icons=true&hide_border=true&bg_color=00000000&title_color=3D2560&icon_color=C4A35A&text_color=4A3060&ring_color=6B4E8A)](https://github.com/pranjalsuthar-555)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalsuthar-555&layout=compact&hide_border=true&bg_color=00000000&title_color=3D2560&text_color=4A3060)](https://github.com/pranjalsuthar-555)
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pranjalsuthar-555&hide_border=true&background=00000000&stroke=D4CCE4&ring=6B4E8A&fire=C4A35A&currStreakLabel=3D2560&sideLabels=6B4E8A&dates=9B84B0&currStreakNum=3D2560&sideNums=4A3060)](https://github.com/pranjalsuthar-555)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranjalsuthar-555&bg_color=00000000&color=6B4E8A&line=9B84B0&point=C4A35A&area=true&area_color=D4CCE4&hide_border=true)](https://github.com/pranjalsuthar-555)
-
-</div>
 
 <br/>
 
