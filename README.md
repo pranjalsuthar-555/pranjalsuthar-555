@@ -20,13 +20,13 @@
 
 <br/>
 
-creative direction. brand worlds. no engineering degree. four things live on the internet.
+creative direction. brand worlds. no engineering degree. six websites and apps live on the internet.
 
 I didn't wait to be qualified. I just started.
 
 I build the whole world around a brand: what it says, how it's made, and the systems that hold it together when the aesthetic wears off. I studied psychology for five years, then wrote, designed, coded and strategised for founders and brands around the world. Until October 2026 I ran the systems behind Home Abroad, a Substack publication that grew from 1,000 to 2,100+ readers while I was there, and I co-founded Atelier, a Substack positioning studio. Now I'm independent, working my way toward creative director.
 
-I also build things when an idea won't leave me alone. A 3D globe for finding where you belong. A Windows 98 file explorer for sitting with AI displacement. A free design resource directory with a Hello Kitty arcade game inside it. A portfolio told as a fairytale. None of these were assigned. All of them are live.
+I also build things when an idea won't leave me alone. A 3D globe for finding where you belong. A Windows 98 file explorer for sitting with AI displacement. A wall where a whole community pinned up their housewarming notes. A painted, scroll-driven site and a free AI tool that reads your Substack and scores it out of 100. A portfolio told as a fairytale. None of these were assigned. All of them are live.
 
 The bigger project is **Angels in the Grey Zone**, a creative universe I'm building from scratch: an original typeface, written mythology, and pan-Asian visual references handled with actual research. The premise is that moral complexity is the most honest design material available, and most brands are too afraid to touch it.
 
@@ -93,6 +93,26 @@ A ten-question quiz and a 3D globe for people seriously considering life abroad.
 <tr>
 <td width="50%" valign="top">
 
+**[The Housewarming Wall](https://homeabroadanniversarywall.vercel.app/)**
+
+A first-birthday campaign built as a housewarming, not a giveaway. Readers pinned one sentence, a place and an optional photo to the wall, and every entry doubled as a sign-up with an instant "welcome to the house" reply. 62 entries and 3,068 views on launch day. I led the campaign end to end and coded the wall from scratch.
+
+`Firebase` `Vercel` `Notion`
+
+</td>
+<td width="50%" valign="top">
+
+**[Atelier](https://atelier.homeabroadhq.com)**
+
+A hand-painted, scroll-driven site for a Substack positioning studio: scrolling down is climbing up a painted cliffside maison. It came with a free AI tool, the Authority Scorecard, which reads a real Substack and scores it out of 100 across seven dimensions. I designed and built both.
+
+`Astro` `Tailwind` `Cloudflare` `Claude API` `Apps Script`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 **[pranjalsuthar.com](https://pranjalsuthar.com)**
 
 My portfolio, told as a fairytale that is also my résumé: an angel falls to earth, and every department of my work is a wing. Seven departments, a vending machine for the about page, and a search that sounds like a doll's dream house.
@@ -100,24 +120,24 @@ My portfolio, told as a fairytale that is also my résumé: an angel falls to ea
 `Astro` `Lenis` `Pagefind` `Cloudflare Pages`
 
 </td>
+<td width="50%" valign="top">
+
+**Kyun** *(restarting)*
+
+A behaviour-science brand startup I run with my co-founder: why people want what they want, turned into strategy that brands can actually use. I built its first website from scratch on Wix Studio, with no template.
+
+`Wix Studio` `Notion` `Figma` `curiosity`
+
+</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 **Angels in the Grey Zone** *(building)*
 
 A constructed creative universe. A typeface drawn from Sanskrit phonemes. Wing repair mythology. Pan-Asian divine archetypes studied without flattening them. The most subversive thing a person can do in an attention economy that profits from reactivity is create something for the joy of it, on purpose.
 
 `Figma` `Cormorant Garamond` `Space Mono` `patience`
-
-</td>
-<td width="50%" valign="top">
-
-**Kyun** *(restarting)*
-
-A behaviour-science brand startup I run with my co-founder: why people want what they want, turned into strategy that brands can actually use.
-
-`Notion` `Airtable` `Figma` `curiosity`
 
 </td>
 </tr>
