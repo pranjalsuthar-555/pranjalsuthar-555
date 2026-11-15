@@ -166,7 +166,7 @@ A constructed creative universe. A typeface drawn from Sanskrit phonemes. Wing r
 
 ## elsewhere
 
-[portfolio](https://pranjalsuthar.com) &nbsp;|&nbsp; [all my links](https://links.pranjalsuthar.com) &nbsp;|&nbsp; [writing on Substack](https://ayumyueowlovesstrawberry.substack.com) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sutharpranjal) &nbsp;|&nbsp; [email](mailto:work@pranjalsuthar.com)
+[portfolio](https://pranjalsuthar.com) &nbsp;|&nbsp; [all my links](https://links.pranjalsuthar.com) &nbsp;|&nbsp; [writing on Substack](https://substack.com/@pranjalsuthar) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sutharpranjal) &nbsp;|&nbsp; [email](mailto:work@pranjalsuthar.com)
 
 <br/>
 
