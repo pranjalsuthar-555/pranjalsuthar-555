@@ -93,15 +93,6 @@ A ten-question quiz and a 3D globe for people seriously considering life abroad.
 <tr>
 <td width="50%" valign="top">
 
-**[Free Kit](https://free-kit-lime.vercel.app/)**
-
-70+ genuinely free design resources in one searchable place. Community-sourced, weekly updates, Hello Kitty energy. Built because the version that should already exist didn't.
-
-`React` `Vite` `Vanilla CSS` `localStorage`
-
-</td>
-<td width="50%" valign="top">
-
 **[pranjalsuthar.com](https://pranjalsuthar.com)**
 
 My portfolio, told as a fairytale that is also my résumé: an angel falls to earth, and every department of my work is a wing. Seven departments, a vending machine for the about page, and a search that sounds like a doll's dream house.
